@@ -26,9 +26,9 @@ function dec(n) {
 
 function makeInt(n) {
   var number = (n)
-  var numString = "'0x2328'"
   return parseInt(number)
-  return parseInt (numString, 10)
+  number = (n)
+  return parseInt (number, 10)
   return parseInt('hello')
 }
 
