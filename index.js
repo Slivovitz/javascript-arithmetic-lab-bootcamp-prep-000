@@ -33,6 +33,6 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   var number = (n)
-  // return parseFloat(number)
+  return parseFloat(number)
   return parseFloat('qwerty')
 }
