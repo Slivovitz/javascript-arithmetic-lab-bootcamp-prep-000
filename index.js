@@ -27,7 +27,7 @@ function dec(n) {
 function makeInt(n) {
   var number = (n)
   return parseInt(number)
-  return parseInt('0x2328', 10)
+  return parseInt ('0x2328', 10)
   return parseInt('hello')
 }
 
