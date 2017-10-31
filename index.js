@@ -26,7 +26,7 @@ function dec(n) {
 
 function makeInt(n) {
   var number = (n)
-  var string = string(n)
+  var string = (n)toString()
   return parseInt(number)
   return parseInt(string, 10)
   return parseInt('hello')
